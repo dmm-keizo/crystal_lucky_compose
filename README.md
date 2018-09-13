@@ -13,7 +13,7 @@ Use the following group of containers
 #### install docker
 https://www.docker.com/docker-mac
 
-### clone mezcal repository
+### clone repository
 ```
 git clone 
 git clone 
